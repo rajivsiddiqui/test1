@@ -34,7 +34,7 @@ public class basic extends base{
 //		driver.findElement(By.id("android:id/text1")).click();
 //		driver.findElement(By.id("android:id/checkbox")).click();
 //		
-		
+		System.out.println("work-2");
 		
 	}
 
